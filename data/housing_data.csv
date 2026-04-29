@@ -1,0 +1,1001 @@
+area_sqft,bedrooms,bathrooms,age_years,parking,location_score,furnishing,property_type,price_lakhs
+1360,3,2,9,0,2,semi-furnished,apartment,72.08
+4272,3,3,4,2,9,furnished,apartment,234.16
+3592,3,2,25,1,10,semi-furnished,apartment,217.43
+966,3,2,28,0,2,furnished,apartment,64.39
+4926,3,2,4,0,6,unfurnished,apartment,215.79
+3944,2,2,9,0,1,unfurnished,independent house,145.43
+3671,3,2,27,1,3,furnished,villa,178.2
+3419,3,3,4,1,2,unfurnished,apartment,147.64
+630,2,1,2,0,3,furnished,apartment,58.46
+2185,5,5,22,0,5,furnished,apartment,148.61
+1269,3,2,5,1,10,unfurnished,independent house,164.66
+2891,3,3,3,1,6,semi-furnished,independent house,162.16
+2933,4,4,17,1,9,unfurnished,independent house,187.16
+1684,3,2,27,1,10,semi-furnished,independent house,165.42
+3885,4,4,8,1,4,unfurnished,apartment,191.46
+4617,3,3,16,1,7,unfurnished,apartment,210.59
+3404,1,1,28,1,6,semi-furnished,villa,162.13
+974,3,3,12,1,2,semi-furnished,independent house,96.68
+1582,3,3,26,2,10,furnished,apartment,151.97
+3058,3,3,14,0,8,furnished,apartment,181.85
+2547,2,2,29,1,7,furnished,independent house,164.46
+3247,2,2,19,0,7,semi-furnished,apartment,160.58
+1475,2,1,16,1,8,furnished,apartment,122.24
+2306,2,1,12,1,1,semi-furnished,villa,111.32
+689,3,3,15,2,1,furnished,apartment,80.03
+3234,2,2,21,0,8,furnished,apartment,187.8
+3505,3,2,3,1,4,semi-furnished,independent house,183.25
+2399,3,2,4,1,5,semi-furnished,villa,147.48
+1767,3,2,4,1,8,furnished,independent house,168.64
+2028,4,4,8,1,5,furnished,apartment,149.03
+3702,3,2,16,1,10,furnished,apartment,209.83
+4056,4,4,12,1,4,unfurnished,villa,209.75
+4390,3,3,1,1,6,semi-furnished,apartment,221.61
+1146,2,1,12,1,5,unfurnished,apartment,89.93
+3388,5,5,21,0,7,furnished,independent house,205.7
+2935,2,2,20,2,10,unfurnished,apartment,182.16
+1100,1,1,26,1,7,furnished,apartment,105.84
+2863,4,4,22,2,4,unfurnished,apartment,147.37
+2561,1,1,18,1,5,unfurnished,apartment,129.86
+741,4,3,2,2,3,semi-furnished,apartment,91.4
+2541,3,3,9,2,4,furnished,apartment,153.75
+3324,5,5,1,1,4,unfurnished,villa,205.79
+3112,3,2,12,1,3,semi-furnished,independent house,145.83
+1863,3,3,18,1,10,semi-furnished,apartment,161.29
+1978,5,4,25,2,5,unfurnished,apartment,129.18
+3056,2,2,16,1,5,unfurnished,apartment,152.03
+1275,5,5,20,0,7,furnished,apartment,139.96
+4514,2,1,13,1,4,semi-furnished,villa,206.41
+534,3,2,11,2,4,unfurnished,villa,85.27
+3652,2,1,20,2,9,furnished,independent house,203.78
+2455,3,2,11,2,6,furnished,apartment,159.63
+2085,2,2,10,1,4,semi-furnished,apartment,109.81
+4443,4,3,6,1,2,semi-furnished,apartment,190.62
+3573,4,4,3,0,6,furnished,apartment,184.54
+1521,5,4,18,0,2,furnished,villa,138.37
+3961,2,1,0,0,5,furnished,independent house,201.14
+3113,3,3,27,1,6,semi-furnished,apartment,162.68
+4343,3,2,23,0,4,semi-furnished,independent house,203.25
+2000,2,1,28,1,3,furnished,apartment,106.59
+661,2,1,2,2,7,unfurnished,apartment,92.03
+4797,3,2,12,1,2,semi-furnished,villa,209.53
+2481,3,3,14,2,6,furnished,apartment,143.72
+1495,3,3,1,1,4,semi-furnished,apartment,118.86
+3842,3,2,10,1,6,semi-furnished,villa,210.89
+4298,1,1,3,1,4,semi-furnished,independent house,173.62
+1775,1,1,18,0,4,unfurnished,apartment,74.8
+1516,1,1,28,1,4,semi-furnished,apartment,88.45
+837,5,5,16,1,9,furnished,independent house,170.02
+1378,1,1,2,0,7,unfurnished,independent house,116.5
+1576,2,2,27,1,3,unfurnished,villa,93.92
+4493,2,1,17,1,3,furnished,apartment,167.92
+879,4,3,7,2,6,unfurnished,independent house,131.19
+992,5,4,21,1,6,unfurnished,apartment,111.86
+2562,4,4,24,1,4,furnished,villa,166.22
+4384,3,2,23,0,9,furnished,apartment,220.47
+564,3,3,25,1,4,semi-furnished,villa,99.79
+3068,1,1,18,1,9,furnished,apartment,184.19
+2527,5,4,4,1,4,unfurnished,apartment,139.64
+3195,4,3,6,2,2,furnished,apartment,148.71
+1995,3,2,20,1,2,semi-furnished,apartment,88.11
+891,4,4,7,2,5,furnished,villa,135.48
+4974,3,3,27,2,4,semi-furnished,independent house,212.2
+4061,3,2,4,0,7,semi-furnished,independent house,227.77
+2778,5,4,16,1,5,semi-furnished,apartment,158.31
+3599,5,5,4,2,6,semi-furnished,villa,221.97
+700,3,2,3,0,10,furnished,villa,146.95
+3604,3,3,21,1,4,semi-furnished,apartment,162.15
+2954,1,1,18,2,2,semi-furnished,apartment,103.04
+4145,3,2,26,1,10,semi-furnished,villa,245.87
+1304,1,1,20,0,9,semi-furnished,independent house,116.43
+3231,3,2,1,1,10,furnished,villa,246.7
+3273,5,4,10,1,7,furnished,apartment,203.12
+2070,3,3,21,1,4,semi-furnished,apartment,134.57
+3190,3,3,12,0,3,furnished,apartment,147.87
+4340,2,2,14,1,10,furnished,independent house,222.15
+1528,2,1,11,1,3,semi-furnished,villa,123.0
+1002,3,3,21,1,9,semi-furnished,apartment,129.58
+4993,2,1,20,1,5,furnished,independent house,226.05
+1370,2,1,21,1,3,semi-furnished,apartment,69.58
+4988,3,2,10,1,5,furnished,independent house,233.3
+706,4,3,6,0,2,semi-furnished,apartment,70.67
+1984,3,2,27,1,4,semi-furnished,apartment,107.12
+1363,1,1,4,0,10,unfurnished,apartment,113.02
+3290,3,3,16,2,2,semi-furnished,apartment,166.85
+1063,3,2,23,0,2,furnished,apartment,76.08
+4691,3,3,19,1,8,semi-furnished,villa,256.59
+2257,3,3,8,1,1,semi-furnished,villa,140.22
+2178,2,1,13,1,7,furnished,villa,172.99
+3742,3,2,25,0,5,semi-furnished,apartment,161.34
+1559,3,2,11,1,8,semi-furnished,apartment,146.27
+2222,4,4,5,1,1,furnished,apartment,126.98
+3814,3,2,16,1,7,furnished,villa,218.31
+3657,3,3,18,1,5,unfurnished,apartment,175.03
+3125,3,2,18,1,4,semi-furnished,independent house,157.83
+3229,3,2,25,1,7,semi-furnished,villa,197.04
+2097,4,4,15,1,10,semi-furnished,apartment,182.21
+3560,3,3,11,1,2,semi-furnished,apartment,162.25
+3193,3,2,11,1,1,semi-furnished,apartment,124.12
+4127,3,3,19,1,1,unfurnished,apartment,153.23
+1863,3,3,5,0,1,semi-furnished,independent house,119.52
+2481,3,3,22,0,5,unfurnished,independent house,138.02
+2163,4,4,25,0,10,semi-furnished,apartment,171.96
+2029,3,3,3,1,7,furnished,villa,195.48
+2538,3,2,5,1,2,furnished,villa,155.74
+3802,5,4,10,1,10,semi-furnished,villa,248.27
+2737,1,1,0,2,8,unfurnished,apartment,155.75
+1806,2,1,29,0,4,unfurnished,apartment,90.2
+4529,2,1,23,1,3,semi-furnished,apartment,174.75
+3175,5,5,22,1,10,unfurnished,independent house,221.55
+1782,1,1,14,1,8,semi-furnished,apartment,145.75
+1209,1,1,26,0,2,unfurnished,apartment,42.33
+4913,1,1,10,1,3,furnished,independent house,201.79
+4248,1,1,24,1,3,semi-furnished,villa,165.74
+1163,1,1,18,2,10,unfurnished,independent house,143.18
+2498,3,3,17,1,1,furnished,apartment,108.05
+3945,3,3,16,2,6,semi-furnished,apartment,204.81
+4243,2,2,18,1,2,unfurnished,independent house,173.91
+1995,2,2,20,1,1,semi-furnished,apartment,102.64
+3804,1,1,13,1,2,semi-furnished,apartment,146.81
+4263,2,1,26,1,6,furnished,apartment,189.04
+2353,3,3,17,1,4,unfurnished,apartment,125.72
+1791,3,3,27,1,6,semi-furnished,apartment,116.16
+4081,1,1,18,1,9,unfurnished,independent house,211.98
+3957,3,3,14,1,10,unfurnished,independent house,230.1
+2136,2,1,14,1,10,furnished,independent house,177.52
+4196,4,4,3,2,8,furnished,apartment,233.19
+3499,3,3,6,0,1,semi-furnished,apartment,142.37
+3652,3,3,12,2,8,semi-furnished,apartment,212.15
+1198,2,2,2,2,9,unfurnished,independent house,129.72
+2660,5,5,15,2,6,furnished,apartment,174.79
+4597,1,1,8,1,10,unfurnished,villa,251.25
+1354,2,2,7,1,5,unfurnished,villa,102.34
+3974,2,1,19,2,6,semi-furnished,apartment,198.64
+2207,2,1,12,1,6,semi-furnished,apartment,125.52
+3277,5,4,16,1,9,semi-furnished,independent house,213.81
+2233,4,4,16,1,4,unfurnished,independent house,137.33
+4010,2,2,16,1,2,semi-furnished,apartment,155.4
+702,3,3,0,1,9,semi-furnished,apartment,121.01
+3755,5,5,7,1,2,unfurnished,independent house,188.99
+4718,4,4,18,2,10,furnished,apartment,267.74
+4996,3,3,5,0,9,unfurnished,apartment,236.68
+1266,5,5,2,2,2,semi-furnished,apartment,102.8
+4889,5,4,26,0,8,semi-furnished,apartment,228.54
+2827,3,3,4,1,9,unfurnished,apartment,172.78
+3431,1,1,12,0,10,semi-furnished,apartment,194.03
+697,3,2,14,0,9,furnished,apartment,112.3
+2430,4,4,13,2,10,unfurnished,apartment,200.83
+4082,2,2,28,1,9,furnished,independent house,225.03
+1108,4,3,22,1,2,semi-furnished,independent house,78.42
+3772,2,1,15,1,4,unfurnished,independent house,157.51
+1647,1,1,17,1,7,semi-furnished,villa,147.33
+4782,2,2,21,1,2,semi-furnished,apartment,174.35
+3897,1,1,28,1,1,furnished,apartment,142.85
+3011,5,5,21,1,3,furnished,independent house,168.9
+2294,4,4,10,2,4,furnished,apartment,143.34
+1159,4,4,2,1,8,furnished,apartment,154.73
+3311,3,2,21,1,6,furnished,villa,190.96
+1869,2,1,9,1,2,semi-furnished,apartment,94.48
+2486,3,2,9,1,9,semi-furnished,apartment,171.39
+646,3,3,29,1,2,semi-furnished,independent house,73.91
+3719,3,3,20,1,5,unfurnished,independent house,196.12
+3411,2,1,15,1,4,furnished,apartment,152.69
+2234,3,2,11,2,7,semi-furnished,independent house,160.14
+2343,3,2,1,1,8,unfurnished,villa,188.12
+988,5,5,8,1,5,unfurnished,villa,124.98
+3476,4,3,23,1,10,semi-furnished,apartment,224.71
+2459,3,2,2,1,5,semi-furnished,apartment,155.34
+2885,3,3,23,1,2,semi-furnished,villa,141.06
+3419,3,3,29,1,8,semi-furnished,independent house,185.41
+2302,1,1,24,2,2,semi-furnished,villa,109.78
+4561,4,3,29,2,10,semi-furnished,apartment,236.17
+3869,4,4,14,2,6,unfurnished,apartment,203.48
+762,3,3,2,0,8,unfurnished,independent house,134.25
+1123,2,1,18,1,6,semi-furnished,apartment,102.01
+1516,2,2,17,1,4,semi-furnished,apartment,93.09
+4143,3,2,7,2,4,unfurnished,apartment,184.53
+2549,1,1,25,1,6,semi-furnished,apartment,123.01
+4223,4,4,16,2,4,unfurnished,villa,223.47
+3608,1,1,7,1,8,semi-furnished,villa,214.2
+4590,2,2,6,1,9,semi-furnished,apartment,238.89
+2556,5,5,29,0,1,semi-furnished,apartment,110.36
+3670,3,3,6,1,4,furnished,independent house,189.75
+2182,2,2,2,1,4,unfurnished,apartment,122.26
+2755,2,1,0,1,2,furnished,apartment,139.2
+1654,1,1,3,1,6,semi-furnished,independent house,121.26
+4999,3,3,24,1,3,semi-furnished,apartment,202.21
+3691,1,1,4,1,7,semi-furnished,independent house,189.03
+2196,3,3,0,1,5,semi-furnished,apartment,156.82
+4491,5,4,14,1,4,semi-furnished,villa,227.41
+2148,2,1,4,1,5,semi-furnished,apartment,130.59
+1945,4,3,12,0,8,unfurnished,independent house,158.67
+4699,5,5,7,1,3,unfurnished,apartment,226.31
+4423,1,1,7,1,7,semi-furnished,apartment,205.03
+753,4,4,4,1,6,semi-furnished,independent house,118.47
+3683,3,2,27,0,1,semi-furnished,apartment,137.11
+3057,5,4,8,1,7,unfurnished,apartment,189.65
+598,3,2,0,2,7,furnished,apartment,113.68
+2700,3,2,3,0,1,furnished,villa,135.74
+3461,3,2,2,1,9,furnished,apartment,207.61
+4933,4,4,1,1,6,semi-furnished,apartment,244.54
+4277,3,3,7,2,2,furnished,villa,194.83
+3369,3,2,22,1,5,furnished,apartment,165.09
+3734,4,3,8,1,4,semi-furnished,independent house,198.98
+4291,2,1,1,2,7,semi-furnished,independent house,222.48
+1456,2,1,13,1,8,furnished,villa,171.57
+4567,2,2,13,2,1,semi-furnished,independent house,166.55
+660,2,1,3,0,5,semi-furnished,villa,93.61
+4993,2,2,29,2,3,unfurnished,apartment,164.77
+1800,5,4,5,1,1,unfurnished,independent house,128.45
+4487,2,2,10,1,3,furnished,apartment,178.05
+2027,3,2,2,1,6,semi-furnished,apartment,122.91
+1718,2,1,7,1,7,semi-furnished,independent house,134.14
+4996,4,4,2,0,8,unfurnished,apartment,233.74
+3604,5,4,13,2,4,semi-furnished,independent house,191.78
+3235,3,2,27,2,3,semi-furnished,apartment,142.88
+1454,4,3,12,1,5,unfurnished,villa,141.06
+3946,1,1,12,2,9,furnished,apartment,210.98
+1545,4,3,1,1,6,unfurnished,villa,151.05
+2193,2,1,12,1,9,semi-furnished,independent house,162.14
+3936,5,5,28,1,6,semi-furnished,villa,213.99
+1062,1,1,18,1,2,unfurnished,apartment,36.09
+2985,3,3,26,1,5,furnished,apartment,153.63
+3854,4,3,5,1,9,furnished,apartment,230.8
+725,2,1,15,2,8,furnished,villa,131.74
+1459,2,1,1,0,7,unfurnished,independent house,109.8
+3567,1,1,7,2,1,unfurnished,apartment,129.12
+1315,2,1,16,1,4,unfurnished,villa,117.48
+3620,3,2,22,1,7,semi-furnished,independent house,195.68
+516,2,2,1,1,7,furnished,apartment,98.34
+1743,2,2,9,2,6,furnished,villa,155.31
+2705,1,1,27,1,8,furnished,independent house,158.81
+3024,4,4,15,1,6,furnished,apartment,169.87
+1569,2,2,5,1,10,furnished,apartment,160.18
+3944,2,1,27,0,3,semi-furnished,apartment,155.74
+3065,1,1,1,1,4,unfurnished,independent house,146.27
+1560,3,2,1,1,3,semi-furnished,independent house,97.51
+2827,4,3,25,1,1,unfurnished,independent house,128.14
+3920,2,2,12,1,10,unfurnished,apartment,228.14
+801,2,2,23,1,5,semi-furnished,apartment,76.58
+4776,4,4,14,1,1,furnished,apartment,190.86
+1106,4,3,27,1,1,unfurnished,apartment,53.7
+3670,2,2,1,1,2,furnished,villa,185.45
+1199,4,4,6,2,4,furnished,independent house,123.6
+1639,5,5,2,1,6,semi-furnished,independent house,166.34
+690,2,2,7,1,8,unfurnished,villa,119.94
+2800,4,4,22,1,3,unfurnished,apartment,135.73
+1480,3,2,13,1,1,furnished,apartment,82.53
+3475,3,2,23,1,3,furnished,apartment,166.19
+1684,1,1,29,1,3,furnished,independent house,99.3
+3827,1,1,22,1,5,semi-furnished,independent house,184.91
+3894,4,4,26,2,4,unfurnished,apartment,176.69
+627,5,5,21,0,4,unfurnished,apartment,78.94
+2565,3,2,28,1,9,furnished,apartment,171.64
+2316,3,3,6,1,7,unfurnished,apartment,144.31
+1069,3,3,20,0,4,semi-furnished,apartment,88.32
+2395,3,3,6,1,3,semi-furnished,apartment,121.33
+3233,2,1,0,1,6,unfurnished,apartment,162.89
+4363,1,1,16,0,3,unfurnished,independent house,173.73
+4514,4,3,8,1,6,semi-furnished,villa,255.09
+3401,2,2,29,1,9,unfurnished,apartment,180.83
+2186,4,3,20,1,6,unfurnished,apartment,143.47
+3509,2,1,12,1,4,furnished,apartment,166.21
+654,1,1,20,1,5,furnished,apartment,70.56
+3037,2,2,18,2,6,unfurnished,apartment,170.97
+1909,3,3,20,1,3,furnished,apartment,106.66
+4557,5,4,18,1,8,semi-furnished,villa,263.44
+1284,2,1,24,2,4,semi-furnished,independent house,109.15
+3675,4,4,24,1,8,furnished,apartment,221.69
+4841,3,3,21,1,10,furnished,independent house,266.84
+3306,4,3,16,1,10,furnished,apartment,224.1
+1037,2,2,22,1,3,unfurnished,apartment,62.32
+2341,4,4,22,1,10,unfurnished,villa,195.32
+2955,4,4,29,1,7,furnished,villa,192.45
+1024,2,2,9,1,9,semi-furnished,independent house,142.01
+3450,2,1,9,0,4,unfurnished,villa,174.63
+4631,4,4,3,2,8,furnished,independent house,260.89
+4615,5,5,7,1,3,furnished,independent house,229.09
+2868,1,1,21,1,7,furnished,villa,200.75
+4347,3,2,19,2,3,semi-furnished,apartment,189.08
+4995,5,5,19,1,7,furnished,villa,269.14
+3201,4,4,17,2,10,unfurnished,independent house,227.54
+1471,5,5,13,1,10,unfurnished,independent house,166.46
+1666,4,4,17,0,6,semi-furnished,apartment,104.32
+3274,3,2,27,1,2,unfurnished,independent house,137.56
+2482,2,1,13,1,3,semi-furnished,apartment,127.47
+1353,2,1,19,1,6,semi-furnished,apartment,113.27
+4646,3,3,20,2,4,semi-furnished,apartment,202.4
+4236,3,3,23,1,6,unfurnished,villa,211.25
+4269,2,2,14,1,1,unfurnished,independent house,164.96
+1074,4,4,21,2,10,semi-furnished,apartment,145.57
+3761,3,2,29,1,1,semi-furnished,apartment,133.22
+1648,3,2,3,1,3,furnished,apartment,117.44
+2215,3,3,12,2,8,furnished,villa,188.24
+4354,3,2,26,1,8,semi-furnished,apartment,221.64
+2991,2,2,22,1,4,furnished,apartment,137.99
+3160,2,2,7,2,6,unfurnished,apartment,179.77
+3624,1,1,17,1,8,unfurnished,apartment,163.09
+3551,2,2,11,1,7,furnished,apartment,181.38
+504,3,3,22,1,7,semi-furnished,villa,116.88
+1376,3,2,13,1,4,furnished,apartment,87.91
+1491,1,1,1,2,9,semi-furnished,villa,141.66
+4642,4,4,17,1,10,furnished,apartment,242.96
+4864,2,1,23,0,6,semi-furnished,apartment,199.08
+4965,5,5,1,1,3,semi-furnished,apartment,220.32
+1135,5,4,10,1,5,semi-furnished,villa,142.71
+2193,2,2,8,1,5,furnished,independent house,144.21
+2182,3,2,11,2,5,semi-furnished,independent house,149.36
+619,1,1,16,1,8,furnished,villa,118.97
+1330,3,2,14,1,9,unfurnished,apartment,135.62
+4175,3,3,24,0,9,unfurnished,independent house,226.0
+1869,2,1,16,1,6,semi-furnished,villa,140.46
+1240,3,2,25,1,6,semi-furnished,apartment,107.96
+616,2,1,28,0,9,furnished,independent house,111.95
+3338,2,1,25,1,4,semi-furnished,apartment,130.46
+1650,3,2,17,1,6,semi-furnished,apartment,127.24
+2431,2,2,21,0,4,semi-furnished,apartment,109.18
+1512,3,3,5,1,1,semi-furnished,apartment,92.01
+2164,3,3,16,0,7,furnished,apartment,151.51
+1581,5,5,22,1,10,unfurnished,apartment,159.75
+1012,2,2,23,2,6,semi-furnished,apartment,81.84
+3349,3,3,17,1,9,furnished,apartment,216.29
+1059,3,3,7,2,7,furnished,villa,149.37
+4172,2,1,8,1,7,semi-furnished,villa,229.24
+3843,5,5,5,1,2,semi-furnished,apartment,177.88
+4570,3,2,4,2,9,unfurnished,apartment,233.93
+1970,3,2,11,1,10,semi-furnished,apartment,166.14
+1080,4,4,24,2,9,furnished,independent house,156.61
+2794,5,4,28,0,6,semi-furnished,apartment,158.68
+3647,5,4,27,1,3,unfurnished,apartment,160.47
+4749,3,2,10,0,1,unfurnished,apartment,169.89
+2179,3,2,24,1,4,unfurnished,villa,138.35
+4006,2,2,0,1,3,unfurnished,apartment,164.53
+3244,2,2,10,1,1,unfurnished,apartment,125.29
+3856,3,3,18,1,3,semi-furnished,apartment,161.29
+4545,1,1,8,1,4,unfurnished,apartment,194.15
+1743,3,3,26,0,8,unfurnished,independent house,151.17
+3618,2,2,1,1,9,semi-furnished,independent house,224.14
+2641,2,2,11,2,3,unfurnished,villa,130.2
+3559,4,4,3,1,6,unfurnished,villa,218.12
+3459,5,5,3,2,10,semi-furnished,apartment,233.58
+2765,1,1,17,2,5,unfurnished,villa,146.62
+2979,3,2,14,1,6,semi-furnished,villa,182.47
+2135,4,4,18,1,4,unfurnished,apartment,116.11
+2257,1,1,12,0,10,furnished,independent house,177.76
+4952,4,3,18,0,6,furnished,apartment,241.49
+2570,2,1,16,0,7,furnished,apartment,156.71
+3349,2,1,5,1,9,semi-furnished,villa,239.07
+3751,5,5,15,1,10,furnished,villa,252.6
+4230,2,1,23,1,7,semi-furnished,villa,214.35
+2989,3,3,11,1,6,unfurnished,apartment,152.63
+2131,4,4,18,1,1,semi-furnished,independent house,126.76
+3316,1,1,4,1,2,furnished,apartment,135.72
+1515,3,3,16,1,1,semi-furnished,apartment,80.97
+1848,5,4,25,0,9,unfurnished,independent house,169.01
+3587,2,1,22,1,10,furnished,villa,217.97
+3339,4,4,25,1,10,furnished,apartment,210.7
+835,3,3,28,1,9,unfurnished,independent house,131.03
+1395,3,2,0,1,7,semi-furnished,apartment,124.47
+4046,3,3,27,1,2,unfurnished,apartment,138.17
+1351,2,2,26,1,6,furnished,apartment,100.31
+2187,5,5,24,0,4,unfurnished,independent house,135.32
+2431,5,4,23,1,1,semi-furnished,apartment,117.76
+4246,3,2,22,1,1,furnished,villa,184.81
+2927,4,4,9,1,5,semi-furnished,apartment,160.4
+2068,3,3,14,1,2,semi-furnished,villa,136.55
+4500,3,3,22,2,4,semi-furnished,apartment,192.97
+3238,3,3,20,1,1,unfurnished,villa,148.82
+3998,3,3,20,1,4,semi-furnished,apartment,171.45
+4413,3,2,10,1,6,unfurnished,villa,236.46
+1566,4,4,12,1,10,semi-furnished,independent house,171.85
+4880,3,2,4,1,4,unfurnished,villa,226.0
+2944,1,1,0,1,1,semi-furnished,apartment,122.6
+4607,2,1,23,1,7,furnished,independent house,225.95
+3873,3,3,11,0,2,furnished,apartment,164.73
+4469,3,2,10,1,9,semi-furnished,villa,240.28
+3046,3,3,16,2,3,unfurnished,independent house,156.83
+1253,3,2,3,2,8,semi-furnished,apartment,135.53
+2582,3,2,14,1,8,furnished,apartment,175.79
+3274,3,2,24,1,3,unfurnished,apartment,136.69
+3396,2,1,29,1,4,furnished,villa,167.91
+4685,3,2,8,1,2,semi-furnished,villa,214.7
+1275,3,2,20,0,4,furnished,apartment,94.84
+2125,4,4,19,1,9,furnished,apartment,163.93
+3569,3,2,18,1,2,furnished,apartment,161.54
+917,1,1,18,2,3,semi-furnished,apartment,53.07
+614,2,2,11,1,4,unfurnished,apartment,72.13
+1116,1,1,4,1,5,semi-furnished,independent house,113.38
+4474,3,3,9,1,1,semi-furnished,apartment,162.87
+3767,2,2,16,1,7,unfurnished,independent house,192.03
+1325,3,2,4,1,10,semi-furnished,villa,171.02
+2016,3,2,21,1,7,semi-furnished,apartment,135.61
+3646,1,1,15,1,9,semi-furnished,villa,230.52
+912,3,3,6,2,4,semi-furnished,apartment,85.6
+1228,2,1,27,1,6,unfurnished,apartment,85.89
+3848,3,2,8,1,2,furnished,apartment,176.47
+3308,2,1,2,1,4,unfurnished,apartment,144.66
+1175,4,3,14,2,2,semi-furnished,apartment,79.76
+3965,2,1,15,0,10,semi-furnished,apartment,212.55
+3004,5,5,17,1,5,furnished,apartment,184.07
+3467,3,2,13,2,7,unfurnished,apartment,179.37
+3286,4,4,2,1,1,semi-furnished,apartment,152.01
+1622,3,3,11,2,10,semi-furnished,apartment,150.15
+4579,3,3,8,1,10,unfurnished,apartment,230.8
+2071,4,4,27,1,7,semi-furnished,apartment,143.11
+2643,3,3,6,1,10,furnished,independent house,213.01
+2187,3,2,8,0,6,furnished,apartment,148.7
+4632,3,2,12,1,6,unfurnished,villa,220.5
+4351,3,2,17,1,8,unfurnished,apartment,216.83
+3940,1,1,4,1,8,semi-furnished,independent house,211.53
+4266,2,1,12,1,6,semi-furnished,apartment,185.95
+2826,3,2,3,2,3,unfurnished,independent house,137.61
+3414,3,3,1,2,5,unfurnished,villa,199.76
+4452,4,4,15,1,2,furnished,apartment,200.38
+1095,3,3,8,2,5,furnished,independent house,125.13
+1228,5,5,8,1,9,unfurnished,apartment,141.36
+1865,2,1,5,1,10,semi-furnished,apartment,141.51
+4992,2,2,10,1,1,semi-furnished,independent house,203.0
+1198,2,2,21,1,10,unfurnished,independent house,145.77
+895,3,2,23,1,5,semi-furnished,apartment,88.77
+4671,4,3,21,1,6,semi-furnished,apartment,228.45
+4860,2,2,0,1,7,furnished,independent house,247.59
+3002,4,3,3,0,9,furnished,villa,221.31
+2319,3,3,12,1,6,semi-furnished,independent house,162.01
+1217,3,3,22,2,5,semi-furnished,villa,120.87
+3282,3,2,12,1,7,unfurnished,apartment,165.49
+4077,2,1,12,2,1,semi-furnished,independent house,169.48
+643,3,3,1,2,5,semi-furnished,apartment,103.64
+3640,3,3,8,2,2,unfurnished,apartment,143.01
+4991,1,1,23,2,4,unfurnished,apartment,176.34
+3438,3,2,7,2,7,unfurnished,villa,205.08
+4136,1,1,6,1,5,furnished,apartment,179.39
+3722,3,3,3,0,6,unfurnished,independent house,197.97
+1667,3,3,17,1,2,unfurnished,apartment,85.89
+3116,3,3,2,1,3,semi-furnished,apartment,159.8
+1562,3,3,27,1,7,semi-furnished,independent house,137.9
+2656,1,1,5,1,2,unfurnished,apartment,100.02
+3482,3,3,11,2,6,furnished,apartment,175.83
+3794,2,2,11,2,5,furnished,apartment,185.76
+1656,2,2,20,2,10,semi-furnished,independent house,148.0
+1232,4,4,27,1,1,semi-furnished,apartment,68.2
+4830,1,1,7,0,10,unfurnished,apartment,223.63
+1453,3,2,21,0,4,semi-furnished,apartment,88.02
+3039,3,2,21,1,2,furnished,apartment,123.14
+3824,2,2,0,0,4,unfurnished,apartment,156.92
+3801,2,2,3,0,1,unfurnished,apartment,145.7
+2042,2,1,20,2,2,semi-furnished,apartment,103.41
+1691,4,3,27,1,8,unfurnished,independent house,158.49
+3493,3,2,10,1,6,furnished,apartment,184.87
+3181,2,2,2,0,2,unfurnished,apartment,128.6
+1717,3,3,12,1,6,furnished,apartment,142.79
+2040,3,2,24,0,10,semi-furnished,apartment,144.43
+3736,2,1,16,2,9,furnished,villa,239.53
+2886,3,2,21,1,7,semi-furnished,apartment,173.5
+4219,3,3,21,1,9,semi-furnished,apartment,214.96
+1888,5,5,9,1,5,furnished,villa,183.2
+2356,2,2,20,0,7,semi-furnished,apartment,155.14
+1865,2,1,11,1,7,semi-furnished,apartment,135.67
+999,2,1,14,1,3,semi-furnished,apartment,74.73
+2180,3,3,20,1,7,furnished,apartment,142.44
+1010,2,1,9,0,1,semi-furnished,apartment,61.35
+4812,3,3,13,1,9,furnished,apartment,241.66
+1824,4,3,12,1,10,unfurnished,villa,188.68
+1655,3,2,4,2,6,semi-furnished,independent house,146.42
+2327,3,2,5,1,5,furnished,apartment,117.94
+3641,4,3,23,1,7,semi-furnished,apartment,195.98
+3986,3,3,1,1,5,furnished,apartment,220.05
+2310,3,2,21,1,10,furnished,apartment,159.07
+3423,1,1,16,1,5,semi-furnished,apartment,152.26
+2714,5,5,3,1,10,unfurnished,independent house,200.34
+4686,2,2,13,1,7,unfurnished,villa,226.93
+1213,2,1,9,2,10,furnished,independent house,141.45
+4102,1,1,2,1,7,furnished,independent house,215.34
+4634,3,3,24,2,3,unfurnished,apartment,189.37
+4022,2,2,2,1,3,unfurnished,apartment,166.94
+4768,2,1,14,2,10,unfurnished,apartment,229.6
+1743,1,1,5,2,3,furnished,apartment,96.91
+4209,2,2,16,1,6,semi-furnished,independent house,206.45
+1581,3,2,11,2,6,semi-furnished,apartment,117.74
+955,3,3,21,0,3,semi-furnished,independent house,73.52
+1394,2,2,19,2,3,furnished,apartment,90.41
+1884,3,2,23,1,8,semi-furnished,independent house,144.46
+2458,3,3,28,0,8,semi-furnished,independent house,169.03
+3572,1,1,10,1,7,unfurnished,villa,204.55
+2496,2,1,24,2,10,semi-furnished,villa,214.66
+4785,5,5,3,0,4,furnished,apartment,228.75
+1004,3,2,25,1,4,furnished,independent house,103.79
+1714,2,1,27,1,3,unfurnished,independent house,86.13
+2031,3,3,25,2,5,unfurnished,independent house,128.13
+3940,2,2,5,1,3,unfurnished,villa,193.97
+1323,3,2,0,1,8,semi-furnished,villa,156.48
+1428,2,1,19,0,7,furnished,independent house,126.92
+633,2,2,22,1,3,unfurnished,apartment,61.77
+2605,2,1,27,1,9,semi-furnished,independent house,169.5
+4127,5,4,15,2,5,semi-furnished,apartment,219.31
+2352,3,2,14,0,9,unfurnished,apartment,161.14
+4675,2,1,16,1,7,semi-furnished,apartment,214.89
+3433,2,1,7,0,7,unfurnished,apartment,163.3
+3784,3,2,27,0,6,semi-furnished,apartment,179.09
+4798,2,1,25,1,2,furnished,apartment,173.01
+3311,2,2,11,1,9,semi-furnished,apartment,195.59
+1750,5,5,26,1,6,unfurnished,apartment,130.69
+4012,2,2,21,2,8,furnished,apartment,217.59
+1756,3,3,20,1,1,semi-furnished,villa,108.43
+3876,5,5,9,2,5,furnished,independent house,240.08
+3986,2,1,26,2,1,unfurnished,villa,157.38
+4084,1,1,14,1,10,unfurnished,independent house,215.24
+1896,2,1,29,2,8,unfurnished,villa,154.15
+4137,4,3,8,1,8,unfurnished,apartment,225.73
+3830,4,4,1,0,1,semi-furnished,villa,192.96
+3203,4,3,4,1,9,furnished,villa,236.42
+970,2,1,5,0,2,semi-furnished,apartment,64.31
+1853,4,4,6,1,9,unfurnished,apartment,163.31
+3283,5,4,20,1,1,semi-furnished,villa,158.87
+3331,3,2,24,0,10,unfurnished,apartment,197.12
+857,5,5,0,1,9,semi-furnished,villa,161.65
+3519,4,3,22,2,4,semi-furnished,apartment,160.96
+1167,3,2,25,1,9,furnished,villa,155.95
+4968,3,2,6,1,7,furnished,apartment,236.48
+1645,2,1,19,1,6,unfurnished,apartment,111.22
+4685,2,1,24,1,5,semi-furnished,apartment,195.13
+4219,3,3,29,1,9,furnished,villa,249.18
+3245,2,2,11,2,2,furnished,independent house,146.85
+1039,4,4,15,1,2,semi-furnished,independent house,93.88
+3279,5,5,15,1,9,furnished,apartment,218.45
+4636,4,4,10,2,3,unfurnished,villa,223.86
+4275,1,1,20,2,8,furnished,apartment,206.81
+3008,2,1,3,0,9,unfurnished,apartment,177.92
+3279,2,2,12,1,8,semi-furnished,apartment,179.6
+1424,3,3,6,1,4,furnished,villa,139.15
+3456,4,3,3,1,1,unfurnished,apartment,149.55
+2081,5,4,14,1,4,semi-furnished,apartment,130.15
+3824,3,3,18,1,9,semi-furnished,villa,229.54
+4985,5,4,8,2,2,furnished,villa,246.36
+755,4,4,10,1,3,furnished,apartment,79.08
+2338,2,1,7,0,10,furnished,apartment,180.53
+2444,4,4,0,1,8,semi-furnished,apartment,179.41
+509,2,1,22,1,6,furnished,apartment,80.35
+3371,2,1,24,1,8,semi-furnished,villa,204.5
+1297,3,3,23,1,7,semi-furnished,apartment,121.28
+1515,2,2,7,2,5,furnished,villa,142.0
+2324,3,3,12,1,9,semi-furnished,independent house,188.75
+4969,3,3,21,1,4,unfurnished,apartment,193.19
+3636,3,3,26,1,6,unfurnished,independent house,189.78
+2693,2,1,3,1,2,unfurnished,apartment,103.66
+723,3,3,7,0,2,furnished,apartment,74.28
+4658,3,3,2,1,2,semi-furnished,apartment,186.12
+4425,3,2,28,0,10,furnished,apartment,221.26
+4500,3,2,8,2,7,semi-furnished,apartment,224.05
+2133,1,1,28,0,2,unfurnished,apartment,73.71
+2652,3,2,1,1,2,semi-furnished,independent house,125.72
+1010,2,1,1,1,9,furnished,independent house,125.89
+884,3,3,27,2,7,semi-furnished,villa,129.8
+904,4,3,12,0,3,furnished,apartment,99.07
+2500,3,2,14,0,3,semi-furnished,villa,145.57
+3256,3,3,27,0,7,semi-furnished,villa,188.83
+2168,5,5,22,0,5,semi-furnished,independent house,160.69
+1960,4,3,11,1,10,furnished,independent house,197.56
+4136,5,4,25,1,6,furnished,independent house,234.75
+3224,4,4,3,1,8,unfurnished,apartment,200.69
+4678,2,1,25,0,9,semi-furnished,villa,249.93
+2548,2,1,7,2,1,semi-furnished,apartment,113.79
+4646,3,2,8,1,3,furnished,independent house,204.56
+1216,2,2,22,1,7,unfurnished,apartment,88.38
+2323,3,2,4,1,6,furnished,apartment,148.52
+2581,2,1,23,2,7,furnished,apartment,163.77
+3919,3,3,19,0,8,unfurnished,independent house,205.02
+2074,3,2,17,2,6,furnished,apartment,141.56
+749,3,2,10,1,3,unfurnished,apartment,57.14
+1173,3,3,14,0,2,unfurnished,independent house,75.78
+2665,4,4,27,2,7,unfurnished,independent house,174.38
+1270,3,3,21,1,1,unfurnished,apartment,67.54
+4462,4,4,8,0,3,furnished,apartment,194.19
+4863,1,1,16,2,4,unfurnished,independent house,193.66
+2484,5,4,26,1,1,unfurnished,independent house,129.26
+1577,3,3,25,1,5,unfurnished,apartment,105.41
+735,2,2,11,0,10,unfurnished,villa,140.14
+888,2,1,6,1,3,unfurnished,apartment,76.87
+3537,3,3,9,1,2,semi-furnished,independent house,159.57
+2348,2,1,24,1,3,unfurnished,villa,123.05
+3314,2,2,25,1,8,furnished,apartment,187.33
+3874,3,2,24,0,6,furnished,apartment,178.25
+3778,3,3,9,0,7,unfurnished,independent house,202.67
+1752,3,3,26,2,6,furnished,villa,155.74
+4481,5,4,12,1,6,unfurnished,apartment,239.65
+2622,3,3,18,2,3,unfurnished,villa,150.46
+2650,3,2,10,1,8,unfurnished,villa,196.76
+1829,1,1,12,1,7,semi-furnished,apartment,129.51
+1858,3,2,20,1,7,semi-furnished,villa,147.49
+2982,2,1,7,1,6,furnished,villa,174.57
+2517,5,4,7,0,5,semi-furnished,independent house,168.99
+1831,4,4,3,1,10,furnished,apartment,191.49
+4844,3,3,14,1,8,unfurnished,apartment,232.62
+4761,2,1,27,2,5,furnished,apartment,202.96
+1858,4,4,10,1,9,unfurnished,villa,180.47
+3677,4,3,10,0,9,unfurnished,villa,219.72
+2628,2,2,0,0,1,unfurnished,independent house,107.16
+2680,2,2,16,0,6,unfurnished,villa,147.42
+637,4,4,14,1,7,semi-furnished,apartment,101.29
+3972,2,2,19,1,3,furnished,independent house,173.45
+3332,5,4,5,2,7,unfurnished,apartment,204.67
+4079,3,2,23,0,7,furnished,independent house,208.31
+3531,1,1,21,1,2,semi-furnished,apartment,131.48
+4664,4,4,27,1,7,furnished,villa,255.5
+3093,2,1,24,1,1,unfurnished,villa,133.78
+4800,3,3,14,1,5,semi-furnished,villa,226.72
+4318,2,1,8,1,9,furnished,apartment,235.01
+4638,1,1,13,1,7,semi-furnished,apartment,195.38
+4323,3,2,17,0,7,semi-furnished,villa,224.61
+4542,3,3,25,1,2,unfurnished,independent house,179.59
+2406,3,2,16,0,8,unfurnished,apartment,155.26
+1260,4,4,17,1,3,semi-furnished,independent house,118.33
+3945,3,2,4,1,8,furnished,apartment,223.49
+1399,2,2,19,1,3,unfurnished,apartment,87.8
+4955,2,2,19,2,10,semi-furnished,independent house,254.52
+3447,5,5,8,2,7,semi-furnished,villa,242.93
+2219,4,3,10,2,2,semi-furnished,independent house,140.72
+780,3,2,23,1,4,semi-furnished,villa,79.73
+3766,2,2,21,1,6,furnished,apartment,180.72
+2387,2,2,0,1,9,semi-furnished,apartment,174.43
+3766,3,3,17,2,5,furnished,apartment,184.36
+1166,4,3,5,1,9,unfurnished,apartment,128.79
+4688,3,2,26,2,5,unfurnished,villa,237.55
+1171,4,3,1,2,10,unfurnished,apartment,152.52
+2469,4,3,14,1,8,unfurnished,apartment,165.18
+4656,2,2,28,1,1,unfurnished,apartment,143.21
+3622,3,3,25,0,7,unfurnished,apartment,171.26
+4400,2,1,20,2,4,furnished,apartment,179.82
+1023,2,1,13,0,5,unfurnished,independent house,97.82
+2893,4,4,4,2,6,furnished,independent house,200.83
+3617,3,2,5,1,5,unfurnished,villa,190.45
+3093,3,2,5,1,1,furnished,independent house,151.77
+2468,2,1,29,2,9,furnished,apartment,162.51
+2253,2,1,21,1,2,unfurnished,independent house,103.97
+2796,2,1,29,1,9,furnished,apartment,172.22
+2761,2,1,17,1,10,semi-furnished,apartment,180.69
+2786,3,3,13,1,2,furnished,villa,159.48
+4702,2,1,9,1,9,semi-furnished,apartment,234.93
+3378,3,2,13,1,6,semi-furnished,villa,207.89
+4643,1,1,12,2,9,furnished,apartment,238.41
+4144,2,2,29,2,6,semi-furnished,independent house,197.12
+4932,2,2,2,1,6,unfurnished,apartment,214.18
+2555,3,2,29,1,2,furnished,apartment,124.99
+1776,3,3,5,1,8,semi-furnished,villa,173.68
+3266,3,2,28,1,3,semi-furnished,apartment,135.99
+802,3,2,7,2,7,unfurnished,apartment,100.51
+1138,3,2,11,0,5,semi-furnished,apartment,97.82
+555,1,1,12,1,3,furnished,villa,75.81
+1025,2,2,10,1,1,unfurnished,villa,88.03
+4623,4,4,11,1,8,semi-furnished,apartment,230.89
+2625,3,3,0,1,3,semi-furnished,independent house,160.57
+3787,2,2,16,1,2,furnished,independent house,163.33
+864,5,4,15,1,1,semi-furnished,villa,88.81
+2146,4,3,10,1,4,semi-furnished,villa,155.89
+1418,2,1,12,0,8,furnished,apartment,117.92
+3297,3,2,17,1,3,semi-furnished,villa,169.68
+2031,3,3,10,1,1,unfurnished,apartment,87.31
+3845,3,3,27,1,4,unfurnished,apartment,169.41
+2406,2,1,11,1,9,semi-furnished,independent house,174.77
+3586,2,2,5,0,1,unfurnished,villa,143.57
+2575,3,3,8,1,2,unfurnished,apartment,112.47
+1213,3,2,15,1,9,furnished,apartment,143.53
+1562,4,3,3,2,2,unfurnished,villa,132.66
+2476,3,3,2,2,3,furnished,apartment,140.92
+1796,1,1,27,1,7,unfurnished,apartment,100.02
+625,3,2,15,2,3,furnished,apartment,84.68
+4096,2,1,23,1,9,furnished,apartment,217.98
+3783,3,2,26,1,6,unfurnished,villa,207.94
+2103,3,3,25,0,3,semi-furnished,apartment,106.91
+566,2,1,29,1,9,unfurnished,villa,111.32
+732,3,2,24,1,1,furnished,apartment,59.1
+2656,2,2,11,1,10,furnished,villa,212.79
+1669,1,1,10,1,3,semi-furnished,independent house,94.47
+2658,2,2,4,1,1,semi-furnished,villa,137.33
+4706,2,2,24,1,2,semi-furnished,independent house,181.62
+1993,5,5,17,2,8,furnished,independent house,193.24
+4507,3,2,18,1,7,semi-furnished,apartment,217.15
+2972,2,1,22,1,2,unfurnished,villa,126.75
+3160,3,3,22,1,2,semi-furnished,independent house,136.58
+3239,1,1,5,1,9,unfurnished,apartment,177.95
+2261,5,5,21,1,6,furnished,apartment,161.59
+4014,3,3,17,0,5,unfurnished,independent house,194.01
+2475,4,4,25,1,10,semi-furnished,villa,211.86
+2862,2,1,5,1,6,unfurnished,apartment,160.03
+1376,3,2,3,1,9,unfurnished,apartment,133.04
+4312,3,2,11,1,7,semi-furnished,independent house,218.67
+3948,4,3,18,1,10,furnished,apartment,226.76
+1812,1,1,28,0,10,furnished,villa,170.36
+1960,2,1,26,1,9,unfurnished,independent house,146.97
+3209,5,5,28,1,4,unfurnished,villa,167.44
+2824,3,3,1,2,2,furnished,apartment,145.84
+2233,2,2,16,2,8,semi-furnished,villa,179.12
+2105,2,1,10,2,4,unfurnished,villa,134.0
+3063,5,5,10,1,9,furnished,villa,241.26
+3921,1,1,20,1,4,furnished,apartment,153.87
+4017,3,2,15,1,8,furnished,apartment,227.14
+2897,4,4,1,1,9,furnished,independent house,221.45
+4235,2,2,1,1,9,furnished,apartment,216.36
+3370,3,3,22,1,10,unfurnished,apartment,198.05
+1660,1,1,7,2,4,unfurnished,apartment,97.55
+742,2,2,12,0,1,semi-furnished,independent house,49.36
+3090,4,3,9,2,3,semi-furnished,apartment,159.47
+1563,4,4,7,1,9,semi-furnished,apartment,170.84
+4824,3,3,29,1,4,semi-furnished,apartment,191.07
+3095,3,2,3,0,5,semi-furnished,villa,185.78
+1419,2,1,14,0,7,semi-furnished,apartment,112.24
+505,1,1,29,1,5,unfurnished,apartment,60.4
+967,2,1,0,1,4,unfurnished,apartment,77.14
+4670,2,1,10,1,2,semi-furnished,independent house,177.57
+503,2,1,6,1,2,furnished,apartment,64.32
+1145,2,2,16,2,4,unfurnished,apartment,74.29
+617,2,2,26,2,10,semi-furnished,apartment,129.98
+3428,2,1,19,2,10,furnished,independent house,222.83
+3051,3,3,23,1,9,semi-furnished,villa,205.24
+4789,4,3,17,1,8,unfurnished,independent house,253.04
+1346,2,2,21,1,3,semi-furnished,independent house,91.81
+3262,5,5,28,1,9,unfurnished,apartment,198.09
+1641,4,3,21,0,5,furnished,villa,138.28
+2310,2,1,11,1,3,unfurnished,apartment,89.77
+1223,4,3,8,1,5,semi-furnished,villa,140.53
+724,3,3,4,1,10,unfurnished,apartment,114.69
+4708,3,2,9,1,4,semi-furnished,apartment,193.39
+2548,2,2,3,1,8,semi-furnished,independent house,180.4
+4915,3,2,4,0,5,unfurnished,apartment,202.44
+2073,2,2,27,1,10,semi-furnished,independent house,167.95
+2328,3,3,27,1,8,unfurnished,apartment,138.63
+2417,3,2,9,1,9,semi-furnished,apartment,168.22
+4734,3,3,10,0,4,semi-furnished,independent house,212.33
+2526,3,3,20,1,7,semi-furnished,villa,172.17
+4244,3,2,23,1,2,furnished,villa,206.31
+1401,2,2,9,1,6,semi-furnished,apartment,106.43
+2539,2,1,27,1,8,semi-furnished,apartment,160.7
+509,4,3,7,1,7,unfurnished,villa,123.43
+760,2,1,1,2,7,semi-furnished,villa,116.75
+2173,1,1,22,1,8,furnished,apartment,133.09
+2719,2,2,7,1,7,unfurnished,independent house,167.48
+2560,2,2,15,1,5,furnished,villa,173.56
+4213,5,5,26,1,7,unfurnished,independent house,239.55
+2119,3,2,21,1,10,furnished,villa,195.1
+820,5,5,4,1,3,unfurnished,villa,105.18
+1842,3,3,26,1,5,furnished,apartment,124.49
+2876,3,2,24,1,7,semi-furnished,apartment,154.68
+3332,2,1,28,0,9,unfurnished,independent house,186.1
+3324,3,3,2,1,2,unfurnished,apartment,135.19
+2494,2,1,11,2,4,semi-furnished,apartment,111.6
+3458,4,3,12,0,7,furnished,apartment,205.27
+2538,4,3,12,2,1,unfurnished,apartment,113.33
+3990,2,1,9,1,2,unfurnished,independent house,160.6
+4177,5,5,3,2,9,semi-furnished,independent house,269.78
+1618,4,3,8,2,10,semi-furnished,apartment,182.57
+2104,3,2,21,1,7,semi-furnished,apartment,145.38
+4527,2,1,23,0,10,semi-furnished,villa,248.13
+735,3,2,22,0,7,unfurnished,villa,115.75
+2469,3,2,26,1,6,furnished,independent house,155.71
+4929,2,1,1,1,3,semi-furnished,villa,218.66
+2408,1,1,18,1,10,unfurnished,apartment,156.4
+875,4,3,0,1,3,furnished,apartment,88.96
+4030,2,2,24,1,2,semi-furnished,independent house,163.07
+3135,3,2,28,2,6,semi-furnished,villa,189.99
+2070,5,5,6,0,4,semi-furnished,villa,165.24
+3060,4,3,16,0,5,unfurnished,apartment,156.3
+3891,2,1,2,0,3,semi-furnished,villa,172.02
+3465,4,3,19,2,6,furnished,independent house,213.28
+4143,1,1,19,1,3,unfurnished,apartment,159.96
+4350,1,1,20,1,8,semi-furnished,apartment,201.73
+1372,3,2,29,0,9,furnished,apartment,135.3
+1752,2,1,2,1,4,furnished,apartment,110.83
+1814,2,2,2,0,9,semi-furnished,apartment,153.44
+3398,3,3,16,2,7,semi-furnished,apartment,181.43
+577,2,1,6,1,3,semi-furnished,villa,96.05
+3121,2,2,26,1,7,furnished,apartment,174.25
+4727,3,3,25,2,1,furnished,apartment,187.11
+1100,4,4,13,1,3,unfurnished,independent house,97.66
+1565,3,2,16,1,6,semi-furnished,villa,130.65
+2636,2,1,17,2,4,semi-furnished,villa,160.65
+2949,3,2,12,1,7,furnished,apartment,164.43
+2843,2,2,19,1,3,semi-furnished,villa,156.96
+2363,1,1,28,1,1,semi-furnished,apartment,76.71
+1818,4,4,19,1,9,furnished,independent house,164.34
+4097,2,1,20,0,6,unfurnished,apartment,173.92
+4262,2,1,26,1,8,unfurnished,villa,229.32
+2690,3,3,17,1,3,semi-furnished,apartment,122.48
+1492,3,2,3,2,8,semi-furnished,villa,179.05
+3212,3,3,0,1,2,unfurnished,apartment,145.61
+2692,2,2,17,2,4,unfurnished,apartment,129.51
+1748,2,1,0,2,3,semi-furnished,apartment,99.96
+3554,2,2,25,0,10,furnished,villa,223.19
+4533,2,1,25,1,1,semi-furnished,independent house,169.93
+2497,3,2,12,0,7,semi-furnished,independent house,170.68
+4187,4,4,19,1,10,unfurnished,apartment,227.36
+2651,3,2,19,2,2,furnished,apartment,120.58
+4518,4,4,22,0,4,furnished,independent house,210.83
+3610,3,2,9,1,9,semi-furnished,apartment,217.95
+2470,3,2,26,1,6,unfurnished,villa,148.36
+697,2,1,10,1,8,unfurnished,independent house,118.05
+3126,3,2,8,1,2,unfurnished,independent house,143.12
+1702,3,2,8,1,7,semi-furnished,apartment,120.84
+2535,2,2,4,0,6,furnished,apartment,146.36
+977,2,2,25,1,9,furnished,apartment,125.69
+1754,5,5,0,0,7,semi-furnished,villa,193.03
+1422,2,2,16,1,1,furnished,apartment,64.04
+919,2,2,21,0,8,furnished,apartment,86.52
+2704,3,3,1,2,10,unfurnished,apartment,182.14
+3097,4,3,23,1,3,semi-furnished,apartment,153.45
+1620,3,2,12,1,2,furnished,villa,105.25
+3568,3,3,8,1,3,semi-furnished,villa,197.02
+1450,2,2,28,1,6,furnished,apartment,119.22
+2836,3,2,3,2,3,furnished,apartment,150.11
+2743,2,1,4,0,10,semi-furnished,independent house,186.28
+3145,4,3,10,1,5,furnished,apartment,174.79
+2357,3,3,23,1,6,furnished,independent house,164.1
+2365,2,2,18,0,8,semi-furnished,independent house,163.62
+3412,1,1,20,0,7,semi-furnished,apartment,176.28
+3353,1,1,2,1,8,unfurnished,villa,197.51
+3728,2,1,11,0,3,semi-furnished,independent house,150.93
+4219,2,2,25,1,4,semi-furnished,apartment,160.25
+3728,3,3,18,1,6,unfurnished,apartment,165.42
+2871,3,2,18,2,7,unfurnished,apartment,163.7
+3391,2,1,12,1,9,unfurnished,apartment,182.86
+4256,2,1,27,1,1,furnished,independent house,163.44
+4725,2,1,6,1,8,furnished,independent house,239.45
+594,4,4,14,2,8,furnished,independent house,129.94
+3174,2,1,22,1,6,semi-furnished,apartment,160.13
+2455,3,2,6,2,4,furnished,apartment,123.95
+1293,4,3,25,1,3,furnished,villa,112.88
+2334,3,3,7,1,3,semi-furnished,apartment,130.81
+2616,4,4,4,1,6,semi-furnished,villa,183.27
+4606,2,1,20,1,8,unfurnished,apartment,212.31
+3825,5,4,13,1,7,furnished,villa,234.85
+3419,2,1,3,1,1,semi-furnished,villa,152.42
+3097,2,2,22,0,6,semi-furnished,apartment,156.51
+3705,3,3,9,1,7,semi-furnished,apartment,186.43
+1314,5,5,19,1,7,semi-furnished,apartment,141.88
+845,4,3,14,0,9,unfurnished,apartment,119.72
+2849,1,1,17,0,10,semi-furnished,villa,205.02
+862,2,1,19,0,5,unfurnished,independent house,83.03
+2943,5,4,12,1,1,furnished,independent house,146.73
+2765,2,1,28,1,2,semi-furnished,independent house,133.77
+2688,4,4,7,2,4,semi-furnished,apartment,147.25
+3505,4,3,8,1,5,semi-furnished,apartment,178.33
+3781,3,3,15,0,9,semi-furnished,apartment,215.59
+1484,2,2,18,1,1,semi-furnished,villa,78.48
+2139,3,2,15,2,3,semi-furnished,apartment,127.19
+1327,2,1,6,1,5,furnished,independent house,108.6
+3230,4,4,13,0,3,furnished,apartment,154.76
+4031,3,2,27,2,4,furnished,independent house,194.74
+4951,4,4,13,1,3,unfurnished,independent house,213.7
+3435,2,1,24,0,4,semi-furnished,apartment,148.36
+4376,5,5,26,0,1,furnished,apartment,165.47
+626,3,3,3,1,8,semi-furnished,villa,145.1
+3677,1,1,25,0,4,unfurnished,apartment,144.27
+3556,1,1,14,2,7,semi-furnished,apartment,185.91
+1103,3,2,2,1,2,unfurnished,villa,84.37
+3949,3,2,4,2,2,unfurnished,apartment,149.72
+4646,4,4,0,1,6,furnished,villa,256.64
+4033,2,2,2,0,2,semi-furnished,villa,171.1
+3867,1,1,14,0,6,unfurnished,apartment,150.58
+3868,3,2,23,1,2,furnished,apartment,154.46
+4297,2,1,26,1,4,furnished,apartment,178.78
+2292,3,2,7,1,7,semi-furnished,villa,198.65
+3361,5,4,28,1,8,unfurnished,apartment,196.22
+3976,5,4,3,1,3,furnished,independent house,220.8
+3917,5,5,1,0,9,furnished,apartment,240.66
+2145,4,3,28,1,2,semi-furnished,apartment,109.83
+1705,2,1,23,0,8,furnished,apartment,127.48
+3530,3,3,23,1,8,semi-furnished,apartment,213.86
+3372,3,2,9,1,4,unfurnished,apartment,148.18
+3572,4,3,3,2,1,semi-furnished,villa,176.26
+2354,1,1,2,1,1,semi-furnished,apartment,101.99
+4521,3,2,1,1,2,furnished,apartment,189.79
+3208,1,1,24,1,9,semi-furnished,apartment,170.85
+4002,3,3,16,1,2,unfurnished,villa,187.74
+1832,4,3,22,1,2,semi-furnished,villa,122.63
+701,4,4,20,2,6,semi-furnished,apartment,104.64
+4007,2,2,23,2,7,semi-furnished,independent house,208.55
+4712,5,4,19,1,7,semi-furnished,apartment,220.99
+1074,3,3,22,1,9,semi-furnished,independent house,126.47
+1036,1,1,12,1,6,furnished,apartment,105.78
+2125,2,2,4,1,8,unfurnished,apartment,140.33
+2622,2,2,29,0,6,semi-furnished,independent house,145.1
+885,1,1,20,1,2,furnished,apartment,69.45
+3781,5,4,29,1,1,semi-furnished,independent house,165.23
+974,3,2,8,1,5,semi-furnished,apartment,94.54
+917,4,3,24,1,9,furnished,villa,163.68
+4100,2,1,28,2,8,unfurnished,independent house,201.21
+1454,2,2,24,0,4,unfurnished,apartment,89.24
+1705,3,3,27,1,5,semi-furnished,independent house,130.65
+4620,2,2,21,1,5,unfurnished,villa,226.74
+2490,3,3,5,2,6,furnished,villa,182.68
+4072,5,5,4,2,3,unfurnished,apartment,203.1
+4880,3,3,24,1,5,furnished,independent house,230.83
+4658,3,3,9,1,2,furnished,apartment,180.64
+3213,2,1,7,1,10,unfurnished,apartment,169.12
+2703,1,1,6,1,1,semi-furnished,independent house,109.71
+3620,2,2,6,1,1,unfurnished,independent house,147.94
+1466,3,3,5,1,10,semi-furnished,apartment,158.98
+3932,1,1,20,1,7,unfurnished,apartment,175.49
+1188,2,1,28,1,2,furnished,apartment,66.24
+4743,3,2,19,0,4,furnished,apartment,196.78
+4201,2,1,2,2,5,unfurnished,apartment,194.28
+841,2,2,18,0,7,unfurnished,villa,100.74
+2224,2,1,21,1,2,furnished,apartment,103.37
+4922,5,5,14,1,6,unfurnished,independent house,238.08
+2292,3,3,3,1,1,furnished,independent house,120.01
+2259,3,3,27,0,7,semi-furnished,apartment,149.68
+3712,1,1,11,1,9,semi-furnished,apartment,187.99
+1489,5,4,5,2,5,furnished,apartment,138.05
+2762,3,3,18,1,5,semi-furnished,apartment,163.53
+2982,2,2,3,1,4,furnished,villa,182.66
+1451,4,4,14,2,3,furnished,apartment,108.89
+1222,2,1,8,0,9,unfurnished,villa,138.68
+3889,3,3,4,1,5,unfurnished,apartment,172.85
+2579,3,2,12,1,8,furnished,apartment,182.78
+3217,2,2,22,1,9,furnished,apartment,197.6
+2832,5,5,25,1,5,unfurnished,apartment,161.95
+3876,3,3,17,0,10,furnished,apartment,230.15
+2000,3,2,29,1,9,semi-furnished,apartment,142.3
+785,2,1,29,0,2,unfurnished,independent house,37.67
+3995,1,1,4,1,9,furnished,independent house,230.33
+2565,2,1,24,1,4,unfurnished,apartment,121.06
+1268,4,4,15,1,6,furnished,apartment,139.4
+3557,2,1,26,2,6,unfurnished,apartment,161.1
+4789,3,2,18,1,6,semi-furnished,apartment,210.9
+2661,3,2,13,0,2,unfurnished,apartment,108.42
+3793,2,2,24,2,7,semi-furnished,apartment,193.16
+1446,3,2,29,1,6,semi-furnished,apartment,105.62
+3835,1,1,15,0,1,unfurnished,apartment,123.13
+4650,5,5,26,1,2,semi-furnished,apartment,199.15
+1981,3,3,14,1,7,semi-furnished,apartment,137.42
+2401,2,2,21,1,1,unfurnished,villa,124.66
+3951,2,2,3,1,1,furnished,apartment,162.09
+4564,3,2,6,1,1,semi-furnished,apartment,158.06
+554,4,3,15,1,8,semi-furnished,villa,132.0
+2323,3,2,23,2,4,semi-furnished,independent house,121.0
+3962,3,2,21,1,4,semi-furnished,independent house,181.79
+3579,2,1,20,2,2,unfurnished,villa,154.38
+1332,2,2,21,1,1,semi-furnished,apartment,70.14
+4908,1,1,20,2,10,semi-furnished,villa,256.19
+3306,3,2,7,1,9,furnished,independent house,219.78
+2990,4,3,16,1,7,furnished,apartment,187.25
+827,3,3,15,1,4,semi-furnished,apartment,85.37
+3810,2,2,26,1,6,unfurnished,independent house,190.42
+3800,3,2,22,1,2,unfurnished,apartment,160.55
+4175,4,4,9,2,7,unfurnished,apartment,217.65
+3554,3,3,9,2,2,unfurnished,apartment,153.36
+2643,4,4,26,1,10,semi-furnished,apartment,181.25
+1811,2,2,1,0,8,unfurnished,apartment,125.67
+3691,2,2,29,1,8,unfurnished,villa,212.5
+3038,4,4,8,1,1,unfurnished,villa,162.35
+4483,3,3,16,1,8,unfurnished,apartment,210.25
+664,2,1,10,1,2,unfurnished,independent house,49.45
+4777,3,2,9,2,6,unfurnished,apartment,210.62
+1322,4,4,21,0,1,semi-furnished,apartment,74.03
+1443,3,2,24,1,5,semi-furnished,independent house,111.02
+4925,3,2,16,1,7,unfurnished,independent house,234.03
+1274,2,2,3,1,10,semi-furnished,villa,174.06
+2698,3,2,15,0,1,semi-furnished,independent house,124.14
+3656,3,3,19,0,2,unfurnished,villa,168.47
+4742,4,4,14,2,7,unfurnished,independent house,223.65
+4195,4,4,24,1,6,semi-furnished,apartment,190.94
+3952,4,3,26,1,3,semi-furnished,villa,186.19
+1414,1,1,20,2,10,unfurnished,independent house,135.37
+1808,3,2,4,1,2,unfurnished,villa,123.96
+4677,4,3,5,0,10,furnished,apartment,251.78
+1013,3,3,16,1,4,unfurnished,apartment,87.73
+2420,4,4,0,1,3,unfurnished,villa,150.32
+4094,4,3,24,1,7,furnished,apartment,202.21
+1909,3,3,18,1,8,furnished,independent house,155.03
+3690,3,3,3,1,2,semi-furnished,apartment,177.27
+4991,2,1,16,1,10,semi-furnished,apartment,238.27
+2055,2,2,8,2,7,unfurnished,independent house,155.18
+1304,3,2,23,0,8,unfurnished,apartment,100.15
+1779,4,4,1,0,6,semi-furnished,apartment,150.22
+4077,2,1,7,1,6,unfurnished,villa,210.6
+3401,2,2,14,0,10,semi-furnished,villa,223.22
+1887,3,3,6,1,1,furnished,apartment,104.92
+3261,1,1,26,2,4,furnished,independent house,161.02
+3179,2,1,5,2,1,unfurnished,apartment,128.34
+2606,1,1,0,1,4,semi-furnished,villa,147.39
+4723,2,1,14,1,2,semi-furnished,apartment,168.43
+3268,2,2,22,1,5,furnished,villa,183.43
