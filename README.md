@@ -201,6 +201,6 @@ sample = {
 
 ## 📬 Connect
 
-Built by **Seshu** | GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Built by **Seshu** | GitHub: [@YOUR_USERNAME](https://github.com/seshu-8)
 
 > ⭐ Star this repo if it helped you!
